@@ -1,0 +1,140 @@
+.menu{
+  width: 40%;
+  text-align:right;
+}
+
+.menu ul li a{
+  font-size: 18px;
+  font-weight: 600;
+
+}
+
+.menu ul li a:hover{
+  color: #8E44AD!important;
+
+}
+
+.banner-area{
+  padding: 80px 0px;
+}
+
+.hey{
+  padding-top: 20%;
+}
+
+.intro{
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.about-area{
+  margin-bottom: 80px;
+}
+
+.about-text{
+  padding: 45px 45px 45px 80px;
+}
+
+.about-text p{
+  font-weight: 500;
+}
+.intro-btn{
+  padding: 10px 20px;
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.card img{
+  width:10%;
+  align-self: center;
+  padding-top:40px;
+}
+
+.card{
+  padding-bottom: 40px;
+  margin-top: 40px;
+}
+
+.myimg{
+  width:80%
+}
+
+.servises-area{
+  margin:60px 0px;
+}
+
+.b1{
+  height:250px;
+  background-color:purple;
+}
+.b2{
+  height:250px;
+  background-color:blue;
+}
+.b3{
+  height:250px;
+  background-color:lightblue;
+
+}.b4{
+  height:250px;
+  background-color:orange;
+}
+
+.b5{
+  height:250px;
+  background-color:green;
+}
+
+.testimonial{
+  margin: 60px 0px;
+}
+
+.testmonial img{
+  width:20px;
+}
+.submit{
+  margin-top:32px;
+}
+
+.newslater{
+  background-image:url(img/ss1.png);
+  height:50vh;
+  margin: 60px 0px;
+  background-repeat: no-repeat;
+  margin-left: 80px;
+}
+.newslater h1{
+color: white;
+padding-top: 90px;
+padding-left: 190px;
+}
+.newslater p{
+color:white;
+padding-left: 190px;
+}
+.post-cards{
+border: solid 2px black;
+padding:25px;
+}
+@media (max-width: 991.98px) {
+  .newslater{
+    background-image: url(img/ss1.png);
+    height: 50vh;
+    margin: 60px 0px;
+    background-repeat: no-repeat;
+    padding-top: 0px;
+  }
+  .newslater h1{
+    color: white;
+    padding-top: 90px;
+    padding-left: 0px;
+  }
+  .newslater p{
+    color: white;
+    padding-left: 0px;  
+  }
+  .newslater form{
+    padding-left: 0px;
+  }
+  .menu-box{
+    width: 100%;
+  }
